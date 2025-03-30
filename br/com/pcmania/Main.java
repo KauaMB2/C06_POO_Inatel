@@ -29,9 +29,9 @@ public class Main {
         SistemaOperacional so2 = new SistemaOperacional("Windows 8", 64);
         SistemaOperacional so3 = new SistemaOperacional("Windows 10", 64);
 
-        Computador pc1 = new Computador("Apple", 8000, proc1, ram1, hd1, so1);
-        Computador pc2 = new Computador("Samsung", 9234, proc2, ram2, hd2, so2);
-        Computador pc3 = new Computador("Dell", 15678, proc3, ram3, hd3, so3);
+        Computador pc1 = new Computador("Apple", 513, proc1, ram1, hd1, so1);
+        Computador pc2 = new Computador("Samsung", (513 + 1234), proc2, ram2, hd2, so2);
+        Computador pc3 = new Computador("Dell", (513 + 5678), proc3, ram3, hd3, so3);
 
         pc1.addMemoriaUSB(usb1);
         pc2.addMemoriaUSB(usb2);
