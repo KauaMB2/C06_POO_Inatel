@@ -1,10 +1,10 @@
-# C06 - OOP (Object-Oriented Programming)
+# C06 - POO (Programação Orientada a Objetos)
 
-### Repository Overview:
-This repository stores the code examples and exercises from the Object-Oriented Programming (OOP) lessons at **Inatel**.
+### Visão geral do repositório:
+Este repositório armazena os exemplos de código e exercícios das aulas de Programação Orientada a Objetos (POO) no **Inatel**.
 
 ---
 
-## Aula 01 - 13/02/2025 - **Introduction to Java**
-
-We had a basic introduction to the Java syntax and logic concepts in Java.
+### Nome: Kauã Moreira Batista
+### Matrícula: 513
+### Curso: Engenharia de software(GES)
