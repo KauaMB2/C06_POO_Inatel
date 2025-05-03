@@ -1,4 +1,4 @@
-package br.com.aula06;
+package br.com.aula07;
 
 public class Main {
     public static void main(String[] args) {

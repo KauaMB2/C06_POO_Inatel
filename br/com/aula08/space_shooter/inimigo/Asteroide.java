@@ -1,4 +1,4 @@
-package br.com.aula07.space_shooter.inimigo;
+package br.com.aula08.space_shooter.inimigo;
 
 public class Asteroide {
     public String nome;

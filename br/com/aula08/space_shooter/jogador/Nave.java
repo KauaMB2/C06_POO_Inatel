@@ -1,6 +1,6 @@
-package br.com.aula07.space_shooter.jogador;
+package br.com.aula08.space_shooter.jogador;
 
-import br.com.aula07.space_shooter.inimigo.Asteroide;
+import br.com.aula08.space_shooter.inimigo.Asteroide;
 
 public class Nave {
     public String nome;

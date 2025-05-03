@@ -1,6 +1,6 @@
-package br.com.aula07.arcanoide.block;
+package br.com.aula08.arcanoide.block;
 
-import br.com.aula07.arcanoide.player.Player;
+import br.com.aula08.arcanoide.player.Player;
 
 public class Block {
     private static int blocksAmount = 0;

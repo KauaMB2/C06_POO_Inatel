@@ -1,4 +1,4 @@
-package br.com.aula07.arcanoide.player;
+package br.com.aula08.arcanoide.player;
 
 public class Player {
     private String name;

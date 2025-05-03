@@ -1,7 +1,7 @@
-package br.com.aula07.space_shooter;
+package br.com.aula08.space_shooter;
 
-import br.com.aula07.space_shooter.inimigo.Asteroide;
-import br.com.aula07.space_shooter.jogador.Nave;
+import br.com.aula08.space_shooter.inimigo.Asteroide;
+import br.com.aula08.space_shooter.jogador.Nave;
 
 public class Main{
     public static void main(String[] args) {

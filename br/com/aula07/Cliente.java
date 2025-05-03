@@ -1,4 +1,4 @@
-package br.com.aula06;
+package br.com.aula07;
 
 public class Cliente {
     private String nome;

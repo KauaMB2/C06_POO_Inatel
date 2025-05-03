@@ -1,8 +1,8 @@
-package br.com.aula07.arcanoide;
+package br.com.aula08.arcanoide;
 
-import br.com.aula07.arcanoide.player.Player;
-import br.com.aula07.arcanoide.block.Block;
-import br.com.aula07.arcanoide.converter.Converter;
+import br.com.aula08.arcanoide.player.Player;
+import br.com.aula08.arcanoide.block.Block;
+import br.com.aula08.arcanoide.converter.Converter;
 
 public class Main {
     public static void main(String[] args) {
